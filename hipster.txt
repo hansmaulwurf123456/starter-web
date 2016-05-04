@@ -1,4 +1,6 @@
 first line
 second line
-3
-4
+origin
+repo
+stage
+working dir
